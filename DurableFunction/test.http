@@ -1,4 +1,2 @@
 GET http://localhost:7071/api/HelloOrchestration_HttpStart
 
-###
-GET http://localhost:7071/runtime/webhooks/durabletask/instances/d0a5a4b15f624a0d8181c7f1c60dae23?code=zx1HZAB9v86qjsCQTg5hwjhAEG_SzvXzxoCjaIaX96tJAzFu5xnmLA==
